@@ -1,0 +1,15 @@
+E:\GeekBrains\SeminarHomework\Ex8\bin\Debug\net6.0\Ex8.exe
+E:\GeekBrains\SeminarHomework\Ex8\bin\Debug\net6.0\Ex8.deps.json
+E:\GeekBrains\SeminarHomework\Ex8\bin\Debug\net6.0\Ex8.runtimeconfig.json
+E:\GeekBrains\SeminarHomework\Ex8\bin\Debug\net6.0\Ex8.dll
+E:\GeekBrains\SeminarHomework\Ex8\bin\Debug\net6.0\Ex8.pdb
+E:\GeekBrains\SeminarHomework\Ex8\obj\Debug\net6.0\Ex8.csproj.AssemblyReference.cache
+E:\GeekBrains\SeminarHomework\Ex8\obj\Debug\net6.0\Ex8.GeneratedMSBuildEditorConfig.editorconfig
+E:\GeekBrains\SeminarHomework\Ex8\obj\Debug\net6.0\Ex8.AssemblyInfoInputs.cache
+E:\GeekBrains\SeminarHomework\Ex8\obj\Debug\net6.0\Ex8.AssemblyInfo.cs
+E:\GeekBrains\SeminarHomework\Ex8\obj\Debug\net6.0\Ex8.csproj.CoreCompileInputs.cache
+E:\GeekBrains\SeminarHomework\Ex8\obj\Debug\net6.0\Ex8.dll
+E:\GeekBrains\SeminarHomework\Ex8\obj\Debug\net6.0\refint\Ex8.dll
+E:\GeekBrains\SeminarHomework\Ex8\obj\Debug\net6.0\Ex8.pdb
+E:\GeekBrains\SeminarHomework\Ex8\obj\Debug\net6.0\Ex8.genruntimeconfig.cache
+E:\GeekBrains\SeminarHomework\Ex8\obj\Debug\net6.0\ref\Ex8.dll
